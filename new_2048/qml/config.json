@@ -1,0 +1,8 @@
+{
+    "title": "New_2048",
+    "identifier": "com.yourcompany.wizardEVP.New2048",
+    "orientation": "landscape",
+    "versioncode": 1,
+    "versionname": "1.0.0",
+    "stage": "test"
+}
